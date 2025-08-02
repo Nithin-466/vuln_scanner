@@ -39,9 +39,7 @@ This is a beginner-friendly vulnerability scanner written in Python. It scans a 
     Port 80 | Service: Apache httpd 2.4.63
     ⚠ [VULNERABILITY FOUND] DEMO-VULN - Apache version used for testing alert 
 
- - Author
+##  Author
 
- Nithin-466
-  Cybersecurity student learning ethical hacking and Python automation.
-
-
+**Nithin-466**  
+Cybersecurity student learning ethical hacking and Python automation.
