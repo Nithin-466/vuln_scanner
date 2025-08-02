@@ -20,3 +20,10 @@ This is a beginner-friendly vulnerability scanner written in Python. It scans a 
 - Nmap installed:
   ```bash
   sudo apt install nmap
+ - python-nmap library:
+  ```bash
+   sudo apt install python3-nmap
+
+  
+
+
