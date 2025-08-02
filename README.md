@@ -21,7 +21,6 @@ This is a beginner-friendly vulnerability scanner written in Python. It scans a 
   ```bash
   sudo apt install nmap
   sudo apt install python3-nmap
-  nano vuln///////-scanner.py
   python3 vuln_scanner.py
   
 ## Sample Output
