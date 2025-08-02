@@ -42,7 +42,6 @@ This is a beginner-friendly vulnerability scanner written in Python. It scans a 
  - Author
 
  Nithin-466
- 
- Cybersecurity student learning ethical hacking and Python automation.
+  Cybersecurity student learning ethical hacking and Python automation.
 
 
