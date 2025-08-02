@@ -21,15 +21,21 @@ This is a beginner-friendly vulnerability scanner written in Python. It scans a 
   ```bash
   sudo apt install nmap
   sudo apt install python3-nmap
+  nano vuln///////-scanner.py
   python3 vuln_scanner.py
   
 ## Sample Output
 
 [+] Scanning 127.0.0.1 for open ports and service versions...
+
+
 Host: 127.0.0.1
 State: up
 Port 80 | Service: Apache httpd 2.4.63
+
 ⚠️  [VULNERABILITY FOUND] DEMO-VULN - Apache version used for testing alert
+
+
 
 ## 👤 Author
 
