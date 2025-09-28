@@ -41,5 +41,6 @@ This is a beginner-friendly vulnerability scanner written in Python. It scans a 
 
 ##  Author
 
-**Nithin-466**  
-Cybersecurity student learning ethical hacking and Python automation.
+## Author
+Nithin – Cybersecurity Enthusiast
+LinkedIn: https://www.linkedin.com/in/suddala-nithin-945691356/
